@@ -1,0 +1,15 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: ""
+    database_name: "db_dscorp"
+    database_user: root
+    database_password: dscorp
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: "dscorpsantos"
+    mailer_password: "HUASTEKITO2015"
+    locale: en
+    secret: a09039832909f30b6c41816d5e9de282
+    #secret: ThisTokenIsNotSoSecretChangeIt
